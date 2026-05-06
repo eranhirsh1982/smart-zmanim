@@ -1,11 +1,11 @@
 {
-  "synagogueName": "בית הכנסת המרכזי",
+  "synagogueName": "בית כנסת אור מיכאל - שחר הגיא",
   "location": {
-    "address": "אלקנה 14 ירושלים",
-    "latitude": 31.7940984,
-    "longitude": 35.2138072,
+    "address": "הגיא יקנעם עילית",
+    "latitude": 32.6375367,
+    "longitude": 35.0806924,
     "timezone": "Asia/Jerusalem",
-    "candleLightingMinutes": 40
+    "candleLightingMinutes": 18
   },
   "displayedZmanim": {
     "alotHaShachar": true,
@@ -34,6 +34,8 @@
   "design": {
     "theme": "stone",
     "layout": "3col",
-    "style": "classic"
+    "style": "classic",
+    "backgroundImage": "",
+    "backgroundOverlay": 0.45
   }
 }

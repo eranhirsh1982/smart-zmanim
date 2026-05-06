@@ -2,15 +2,14 @@
   "rooms": [
     {
       "id": "main",
-      "name": "היכל מרכזי",
+      "name": "בית כנסת",
       "weekday": {
         "shacharit": [
-          "06:30",
-          "07:30"
+          "06:00"
         ],
         "mincha": [],
         "arvit": [
-          "20:00"
+          "20:45"
         ]
       },
       "shabbat": {
@@ -24,35 +23,6 @@
         "mincha": [],
         "arvitMotzashOffsets": [
           30
-        ]
-      },
-      "notes": ""
-    },
-    {
-      "id": "beit-midrash",
-      "name": "בית מדרש",
-      "weekday": {
-        "shacharit": [
-          "07:00"
-        ],
-        "mincha": [
-          "13:25"
-        ],
-        "arvit": [
-          "21:15"
-        ]
-      },
-      "shabbat": {
-        "kabbalat": [],
-        "minchaErevOffsets": [
-          -20
-        ],
-        "shacharit": [
-          "09:00"
-        ],
-        "mincha": [],
-        "arvitMotzashOffsets": [
-          45
         ]
       },
       "notes": ""
