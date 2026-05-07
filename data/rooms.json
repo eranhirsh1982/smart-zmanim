@@ -26,6 +26,24 @@
         ]
       },
       "notes": ""
+    },
+    {
+      "id": "monday",
+      "name": "שני וחמישי",
+      "weekday": {
+        "shacharit": [
+          "05:50"
+        ],
+        "mincha": [],
+        "arvit": []
+      },
+      "shabbat": {
+        "kabbalat": [],
+        "minchaErevOffsets": [],
+        "shacharit": [],
+        "mincha": [],
+        "arvitMotzashOffsets": []
+      }
     }
   ]
 }

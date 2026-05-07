@@ -1,3 +1,10 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "name": "אירוע 1",
+      "hebrewDay": 8,
+      "hebrewMonth": "סיון",
+      "notes": "אירוע"
+    }
+  ]
 }
